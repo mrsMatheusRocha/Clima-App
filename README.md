@@ -1,6 +1,3 @@
-
-![Descricao da sua imagem](thumb-4663.png)
-
 # Climapp
 
 App de clima que consome uma API e exibe informações como temperatura e data atual, descrição do tempo, umidade, máx e min e previsão para os três próximos dias.
@@ -21,10 +18,6 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `Figma`: para prototipar o app
 - `HG Brasil`: site da API utilizada para obter informações do clima
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/NeiltonSeguins/4663-praticando-react-apis).
-
 ## 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com o seu editor de código favorito. Eu gosto de usar o [Visual Studio](https://code.visualstudio.com/), então recomendo que você também o use para ficarmos na mesma página. 
@@ -34,9 +27,4 @@ Após baixar o projeto, você pode abrir com o seu editor de código favorito. E
 - Instale as dependências usando o `npm install`
 - Rode o app com o comando `npm run dev`
 - Seu app está rodando provavelmente em `http://localhost:5173/`
-
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o protótipo](https://www.figma.com/community/file/1491129858344649743) com todas as telas do app. 
 
